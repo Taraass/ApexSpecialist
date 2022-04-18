@@ -1,3 +1,4 @@
+@isTest
 public with sharing class TestUtils {
 
     public static void maintenanceRequestTriggerUpdateData(String caseType1, String caseType2) {
